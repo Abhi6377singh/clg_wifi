@@ -1,0 +1,55 @@
+html{
+    background-color:#CFCCFF;
+}
+.logo{
+    width: 50px;
+}
+#center{
+
+    width: 300px;
+    height: 400px;
+    margin: 5rem auto;
+    list-style-type: none;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+    background-color: white; 
+    padding: 10px;  
+}
+.logo{
+    border: 0.5rem solid white;
+    padding: .5rem;
+}
+#heading{
+    font-size:1.2rem;
+    border: .5rem solid white;
+    padding:.5rem ;
+    font-family: bold;
+}
+#button{
+    width: 83%;
+    font: 0.8em SaopphoSansRegular, sans-serif;
+    background-color: #44ac33;
+    color: white;
+    padding: 1em 1em;
+    border-radius: 0.3em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    cursor: pointer;
+    border: none;
+}
+#username{
+    font: 12.8px SaopphoSansRegular, sans-serif;
+    margin: 0px 0px 12.8px;
+    padding: 8.6px 12.8px;
+    border-radius: 0.3em;
+}
+#password{
+    font: 12.8px SaopphoSansRegular, sans-serif;
+    margin: 0px 0px 12.8px;
+    padding: 8.6px 12.8px;
+    border-radius: 0.3em;
+}
+#userportallink{
+    text-decoration-style: none;
+    
+}

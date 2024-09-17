@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>PESCE Captive Portal</title>
+        <link rel="stylesheet" href="./style.css">
+    </head>
+    <body>
+        <div id="center">
+            <a href="https://www.pesce.ac.in/" ><img class ="logo"src="./logo.png"></a>
+            <div class="pannel body">
+                <p id="heading">PESCE Captive Portal</p>
+                <div class="input_box">
+                    <input name="username" type="text" id="username" size="30" maxlength="60" placeholder="username"><br/>
+                    <input name="password" type="text" id="password" size="30" maxlength="60" placeholder="password"><br/>
+                    <button name="button" type="submit" id="button" >Sign in</button><br/>
+                </div>                   
+            </div>
+            <div>
+                <ul.none>
+                    
+                    <li id="userportallink"><a id="myaccountcaption" style="display:block; color:#020A0F;" href="https://192.168.100.1:4443/userportal/webpages/myaccount/login.jsp" style="text-decoration:none" target="_blank" text="PESCE User Portal | change password">PESCE User Portal | change password</a></li>
+                </ul>
+            </div>
+            
+        </div>
+    </body>
+    
+</html>
